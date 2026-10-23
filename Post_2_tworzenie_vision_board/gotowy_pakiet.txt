@@ -1,0 +1,33 @@
+### Scenariusz wideo: "Tworzenie Vision Board"
+
+**Opis filmu:** W tym inspirującym wideo pokażemy, jak łatwo stworzyć własną wizję przyszłości i manifestować swoje marzenia poprzez artystyczny vision board. Pokażemy, jak wyrazić swoje cele, pasje i marzenia w formie kreatywnej wizualizacji. Pamiętajcie, becoming HER is easy with us!
+
+#### Sceny i narracja:
+
+1. **Scena 1: Wprowadzenie**
+   - **Ujęcie**: Kobieta siedzi w przytulnym pokoju, otoczona materiałami do tworzenia (magazyny, kolorowy papier, klej, nożyczki).
+   - **Narracja**: "Cześć, piękne dusze! Dziś pokażę wam, jak łatwo stworzyć vision board, który pomoże wam zmanifestować swoje marzenia. Becoming HER is easy with us!"
+
+2. **Scena 2: Zbieranie inspiracji**
+   - **Ujęcie**: Zbliżenie na kobiety przeglądające magazyny, wyszukujące zdjęcia i cytaty.
+   - **Narracja**: "Pierwszym krokiem jest zebranie inspiracji. Szukajcie obrazków, które przyciągają waszą uwagę i odzwierciedlają wasze cele i pragnienia."
+
+3. **Scena 3: Tworzenie kompozycji**
+   - **Ujęcie**: Kobieta układa zdjęcia i cytaty na dużym arkuszu papieru.
+   - **Narracja**: "Następnie, przyszedł czas na kreatywność! Układajcie swoje inspiracje tak, aby tworzyły spójną całość. Nie bójcie się być odważne!"
+
+4. **Scena 4: Personalizacja**
+   - **Ujęcie**: Dodawanie osobistych akcentów (rysunki, zachody słońca, własne notatki).
+   - **Narracja**: "Personalizacja to klucz! Dodajcie swoje ulubione kolory, obrazki i napisy, które mają dla was szczególne znaczenie."
+
+5. **Scena 5: Finalizacja i refleksja**
+   - **Ujęcie**: Kobieta wiesza swój vision board na ścianie.
+   - **Narracja**: "Oto wasz gotowy vision board! Powieście go w widocznym miejscu, aby przypominał wam o waszych marzeniach każdego dnia."
+
+6. **Scena 6: Zakończenie**
+   - **Ujęcie**: Zbliżenie na szczęśliwą kobietę patrzącą na swój vision board.
+   - **Narracja**: "Pamiętajcie, marzenia są bliżej niż myślicie. Z pomocy tego prostego narzędzia, becoming HER is easy with us!"
+
+### Prompt dla Midjourney/DALL-E:
+
+"Minimalist graphic for a title page featuring a pastel baby pink background with chocolate brown typography. The text should read 'Creating Your Vision Board: Become HER'. The design should be clean, elegant, and embody the IT GIRL aesthetic."

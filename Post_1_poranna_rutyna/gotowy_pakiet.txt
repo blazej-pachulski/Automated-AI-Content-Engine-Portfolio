@@ -1,0 +1,47 @@
+### Scenariusz Wideo: "Poranna Rutyna IT GIRL"
+
+**Opis Wideo:**
+Zanurz się w świat porannej rutyny IT GIRL, gdzie każdy krok to manifestacja stylu, pewności siebie i pozytywnej energii. Zobacz, jak łatwo możesz stać się najlepszą wersją siebie, korzystając z prostych gestów i produktów, które sprawiają, że każdy poranek staje się wyjątkowy. "Becoming HER is easy with us" – dołącz do naszej wspólnej podróży!
+
+---
+
+**Scenariusz:**
+
+1. **Intro (5 sek)** 
+   - Muzyka relaksacyjna w tle.
+   - Obrazek sunrise, delikatnie przechodzący w pastelowe kolory.
+   - Napisy: "Becoming HER is easy with us".
+
+2. **Krok 1: Wstawanie (15 sek)** 
+   - Zbliżenie na budzik, który pokazuje 7:00.
+   - Dziewczyna w piżamie przeciąga się i uśmiecha.
+   - Krótka narracja: "Zacznij dzień z pozytywnym nastawieniem. Wstawaj z uśmiechem!"
+
+3. **Krok 2: Nawodnienie (10 sek)** 
+   - Ujęcie szklanki z wodą i cytryną.
+   - Dziewczyna pije wodę, jej skóra promienieje.
+   - Narracja: "Hydratacja to klucz do energii!"
+
+4. **Krok 3: Pielęgnacja (20 sek)** 
+   - Ujęcia kosmetyków: serum, krem, różowe akcenty.
+   - Dziewczyna nakłada produkty na twarz, wyglądając na zrelaksowaną i uśmiechniętą.
+   - Narracja: "Dbaj o siebie, odkryj łatwość porannej pielęgnacji."
+
+5. **Krok 4: Stylizacja (20 sek)** 
+   - Szybka montażowa sekwencja: dziewczyna wybiera ubrania, stylizuje włosy i nakłada makijaż.
+   - Kolory pastelowe, akcenty brązu dla kontrastu.
+   - Narracja: "Twoja garderoba powinna odzwierciedlać Twoją osobowość."
+
+6. **Krok 5: Śniadanie (15 sek)**
+   - Ujęcie zdrowego śniadania: smoothie, owoce, nabiał.
+   - Dziewczyna delektuje się jedzeniem w przytulnym otoczeniu.
+   - Narracja: "Zacznij dzień od zdrowego śniadania! Pamiętaj, że jesteś tym, co jesz."
+
+7. **Outro (5 sek)**
+   - Dziewczyna wychodzi z domu, pewna siebie, w otoczeniu natury.
+   - Napisy: "Becoming HER is easy with us". 
+   - Muzyka wygasa.
+
+### Prompt dla Midjourney/DALL-E:
+
+"Create a minimalist title graphic for a morning routine video. The background should be pastel baby pink, with chocolate brown typography that says 'Becoming HER is easy with us'."
